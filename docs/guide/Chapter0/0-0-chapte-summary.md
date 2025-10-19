@@ -19,6 +19,8 @@
 在做好准备后，有必要来先认识一下我们工作的“岗位”
 
  > [0.6 关于电子白板](0-6-about-writeboard.md)
+ >
+ > [0.7 正确打开或关闭电脑](0-7-correctly-turn-on-and-off-the-computer.md)
 
 ### 养兵千日，用兵一时
 
