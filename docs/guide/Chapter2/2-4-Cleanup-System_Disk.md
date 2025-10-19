@@ -64,6 +64,30 @@
 
 
 
+## 通过 厂商附带的 ”系统管家“ 应用
+- 一些厂商会在系统中附带安装 XX管家 或者 XX系统管家 等，一般都会有 清理系统盘 的工具选项，我们可以利用这些工具以清理系统盘<br>
+
+（注：操作前请确保已安装对应的软件或者已更新到最新版本）
+
+### 希沃管家
+- 打开 希沃管家 主界面，点击”系统盘瘦身“，然后点击”开始扫描“，并等待扫描完成<br>
+![seewo](/images/Cleanup-System_Disk/seewo_1.png)<br>
+
+- 扫描完成后，你可以放心清理自动选择的项目，或者手动选择一些项目<br>
+![seewo](/images/Cleanup-System_Disk/seewo_2.png)<br>
+
+- 下面还有文件迁移的选项，您可以选择将 文档、桌面、视频、音乐 等文件夹移动到 D盘 或者其他磁盘等<br>
+![seewo](/images/Cleanup-System_Disk/seewo_3.png)
+
+![seewo](/images/Cleanup-System_Disk/seewo_4.png)<br>
+
+选择完成后，点击 “立即释放” 即可，等待清理完成即可关闭窗口<br>
+![seewo](/images/Cleanup-System_Disk/seewo_5.png)<br>
+
+
+
+
+
 ## 通过 杀毒软件 附带的工具
 - 系统自带的清理工具作用有限，我们可以通过 第三方杀毒软件 附带的 清理工具 以清理应用程序的垃圾等<br>以下为市面上常见的2个杀毒软件的操作示范<br>
 <br>（注：操作前请确保已安装对应的软件）
