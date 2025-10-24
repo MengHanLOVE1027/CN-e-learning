@@ -1,9 +1,4 @@
----
-tags:
-    - 基础
----
-
-# 认识OPS主机模块
+# 0.6.1 认识OPS主机模块
 
 ### 什么是 OPS ？
 >以下文段部分内容源自[百度百科](https://baike.baidu.com/item/OPS/8383483) <br>
@@ -20,4 +15,3 @@ tags:
 
 <br>
 
-您可能还感兴趣: [关于电子白板](https://cnel.smart-teach.cn/faq/writeboard)
