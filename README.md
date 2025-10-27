@@ -100,6 +100,7 @@ npm run docs:build
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Zpcin"><img src="https://avatars.githubusercontent.com/u/62590508?v=4?s=100" width="100px;" alt="Zpcin Zhang"/><br /><sub><b>Zpcin Zhang</b></sub></a><br /><a href="#design-Zpcin" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JerryZeng20142"><img src="https://avatars.githubusercontent.com/u/131527911?v=4?s=100" width="100px;" alt="Jerry Zeng(曾 予翮)"/><br /><sub><b>Jerry Zeng(曾 予翮)</b></sub></a><br /><a href="https://github.com/CN-E-Learning/CN-e-learning/commits?author=JerryZeng20142" title="Code">💻</a> <a href="https://github.com/CN-E-Learning/CN-e-learning/commits?author=JerryZeng20142" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/TXBk0032-1"><img src="https://avatars.githubusercontent.com/u/230817338?v=4?s=100" width="100px;" alt="a"/><br /><sub><b>a</b></sub></a><br /><a href="https://github.com/CN-E-Learning/CN-e-learning/commits?author=TXBk0032-1" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/databasenf"><img src="https://avatars.githubusercontent.com/u/227356334?v=4?s=100" width="100px;" alt="databasenf"/><br /><sub><b>databasenf</b></sub></a><br /><a href="https://github.com/CN-E-Learning/CN-e-learning/commits?author=databasenf" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
