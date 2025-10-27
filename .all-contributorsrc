@@ -1,6 +1,6 @@
 {
-  "projectName": "CN-e-Learning",
-  "projectOwner": "CN-e-Learning",
+  "projectName": "CN-e-learning",
+  "projectOwner": "CN-E-Learning",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -71,7 +71,7 @@
       "contributions": [
         "code",
         "doc",
-		"ideas"
+        "ideas"
       ]
     },
     {
@@ -201,8 +201,19 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "JerryZeng20142",
+      "name": "Jerry Zeng(曾 予翮)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131527911?v=4",
+      "profile": "https://github.com/JerryZeng20142",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "linkToUsage": false
+  "linkToUsage": false,
+  "commitType": "docs"
 }
