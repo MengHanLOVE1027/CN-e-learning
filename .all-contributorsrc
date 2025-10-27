@@ -211,6 +211,15 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "TXBk0032-1",
+      "name": "a",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230817338?v=4",
+      "profile": "https://github.com/TXBk0032-1",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
