@@ -20,7 +20,14 @@ order: 4
 > （注：希沃的OPS主机在**一体机身的右边**（如图））<br>
 > ![OPS_seewo](/images/Disassembly-of-the-OPS-Host-Module/seewo_OPS_1.jpg)
 >
-> ![OPS_seewo](/images/Disassembly-of-the-OPS-Host-Module/seewo_OPS_2.jpg)
+> ![OPS_seewo_P1](/images/Disassembly-of-the-OPS-Host-Module/seewo_OPS_3.jpg)
+> 
+> 大部分希沃白板可以通过摁住类似于上图橙色的快拆按钮将OPS拔下来
+> 
+> ![OPS_seewo_P2](/images/Disassembly-of-the-OPS-Host-Module/seewo_OPS_2.jpg)
+> 
+> 一些旧机型(例如s65ea)在船型开关上方和天线下方并非是快拆按钮，而是两个十字螺丝，但是可以拿手拧松，拧松了就可以拔下来。
+> 
 
 <br>
 
