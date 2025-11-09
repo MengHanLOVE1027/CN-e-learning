@@ -7,7 +7,7 @@ order: 4
  > ⚠注意：**建议请专业人员操作，且此类设备通常会有 防拆保修标签，擅自拆除后可能会失去保修！！！**<br>
  > 除非你知道你在干什么，否则**造成设备损坏等后果请自行负责!!!**
 
-> 如果您还不了解什么是 OPS , 建议先了解此文章内容 [认识OPS主机](https://cnel.smart-teach.cn/faq/Getting-to-Know-OPS)  [关于电子白板](https://cnel.smart-teach.cn/faq/writeboard)
+> 如果您还不了解什么是 OPS , 建议先了解此文章内容 [认识OPS主机](https://cnel.smart-teach.cn/guide/Chapter0/0-6-1-Getting-to-Know-OPS)  [关于电子白板](https://cnel.smart-teach.cn/guide/Chapter0/0-6-about-writeboard)
 <br>
 
 - OPS主机是整个一体机必不可少的一个部件，简而言之就是一台集成度高的迷你电脑主机，通常OPS主机的安装位置于**一体机机身的左侧** (如图)<br>
@@ -21,13 +21,6 @@ order: 4
 > ![OPS_seewo](/images/Disassembly-of-the-OPS-Host-Module/seewo_OPS_1.jpg)
 >
 > ![OPS_seewo_P1](/images/Disassembly-of-the-OPS-Host-Module/seewo_OPS_3.jpg)
-> 
-> 大部分希沃白板可以通过摁住类似于上图橙色的快拆按钮将OPS拔下来
-> 
-> ![OPS_seewo_P2](/images/Disassembly-of-the-OPS-Host-Module/seewo_OPS_2.jpg)
-> 
-> 一些旧机型(例如s65ea)在船型开关上方和天线下方并非是快拆按钮，而是两个十字螺丝，但是可以拿手拧松，拧松了就可以拔下来。
-> 
 
 <br>
 
@@ -52,12 +45,17 @@ order: 4
 > [!NOTE]
 > ⚠注意：图片仅供参考，可能会有所差异，请仔细观察并以实际情况为准
 <br>
+
+### 移除OPS主机模块
+
 - 首先，将设备彻底关机，然后断电，移除连接在OPS主机模块上的所有线缆<br>
 
 - 按照文章上面的图片所示，找到OPS主机模块位置后，使用 螺丝刀 将固定两侧的螺丝拆除（螺丝接口一般为 十 字状）（位置如图所示），拆除螺丝后按照图中示意方向取出OPS主机<br>
 
 ![OPS](/images/Disassembly-of-the-OPS-Host-Module/3.png)
 <br>
+
+### 拆解OPS主机
 
 - 取出后OPS主机模块后，先拆除 无线天线，按照图中所示逆时针旋转取出（如果没有请忽略并查看下一步）<br>
 
@@ -103,6 +101,73 @@ order: 4
 
 <br>
 
+## 希沃OPS主机拆解 (适用于大部分型号)
+- 希沃的OPS主机与市面上常见的OPS主机不同，经过了深度的定制，接口与常见的OPS主机接口不通用，且维修时需要额外购买开机板（新接口的开机板达到了80以上...）
+
+### 移除OPS主机模块
+- 在开始之前，先将设备关机，然后关闭电源，按照文章上面的图片 找到OPS主机的位置
+
+- 大部分希沃白板可以通过摁住类似于上图橙色的快拆按钮将OPS拔下来
+
+![OPS_seewo_P1](/images/Disassembly-of-the-OPS-Host-Module/seewo_OPS_4.jpg)
+
+-  一些旧机型(例如s65ea)在船型开关上方和天线下方并非是快拆按钮，而是两个十字螺丝，但是可以拿手拧松，拧松了就可以拔下来。
+
+![S65EA](/images/Disassembly-of-the-OPS-Host-Module/seewo_OPS_2.jpg)
+
+### 拆解OPS主机
+::: tip
+此文段需要更多信息补充，会持续更新！Coming S∞n！
+:::
+
+- B站上有相关拆解视频，感兴趣的同学可以尝试搜索相关视频
+
+![B站上的相关视频搜索](/images/Disassembly-of-the-OPS-Host-Module/seewo-ops-bilibili-search.png)
+
+（施工中...）
+
+
+
+## 鸿合OPS主机拆解 (适用于新款设备)
+- 新款鸿合设备的OPS接口还是通用接口，但是外观及拆装方式有很大的差异，同时拆装OPS的时候不需要使用螺丝固定，而是使用卡扣的方式，即使手短也能轻松摸到OPS主机
+![HiteVision](/images/Disassembly-of-the-OPS-Host-Module/HiteVision2.jpg)
+
+![HiteVision](/images/Disassembly-of-the-OPS-Host-Module/HiteVision0.jpg)
+
+![HiteVision](/images/Disassembly-of-the-OPS-Host-Module/HiteVision1.jpg)
+<br>
+
+### 移除OPS主机模块
+
+- 在开始之前，先将设备关机，然后关闭电源，
+- 在上面的图片中找到OPS主机位置后，按照下图方式拆除OPS主机模块（图1中为安装方法，~~倒着看步骤即可~~）：
+![安装示意图](/images/Disassembly-of-the-OPS-Host-Module/HiteVision02.jpg)
+
+![OPS主机位置](/images/Disassembly-of-the-OPS-Host-Module/HiteVision1.jpg)
+
+![拆除卡扣](/images/Disassembly-of-the-OPS-Host-Module/HiteVision9.jpg)
+
+### 拆解OPS主机
+::: tip
+此文段需要更多信息补充，会持续更新！Coming S∞n！
+:::
+
+- 按照图中标记找到机身盖板的螺丝并拆除（注：有一颗螺丝可能会被保修标签覆盖）：<br>
+> - OPS机身正面(散热器风扇出风口的那一面)
+> ![OPS机身正面(散热器风扇出风口的那一面)](/images/Disassembly-of-the-OPS-Host-Module/HiteVision3.jpg)
+> - OPS机身左侧（有USB接口，卡扣及把手的那一面）
+> ![OPS机身左侧（有USB接口，卡扣及把手的那一面](/images/Disassembly-of-the-OPS-Host-Module/HiteVision4.jpg)
+> - OPS机身右侧（什么接口都没有的那一面）
+> ![OPS机身右侧（什么接口都没有的那一面）](/images/Disassembly-of-the-OPS-Host-Module/HiteVision6.jpg)
+> - OPS机身尾部接口（OPS接口的那一面）
+> ![OPS机身尾部接口（OPS接口的那一面）](/images/Disassembly-of-the-OPS-Host-Module/HiteVision7.jpg)
+
+
+
+（To Be Continue...）
+
+
+
 <details>
 
 <summary>其他疑问</summary>
@@ -110,5 +175,11 @@ order: 4
 > - 如何安装回原样？
 >
 > ~~请将本文段步骤倒着看一遍（~~
+>
+>
+> - 安装之后OPS主机不开机？
+>
+> 检查OPS接口是否有灰尘及其他异物，检查固定螺丝是否拧紧，安装是否正确，可以尝试重新插拔OPS主机模块
+
 
 </details>
