@@ -34,9 +34,6 @@
 #### 其他选项
 - 程序与功能：删除不用的应用程序以释放空间，点击 “清理” 将跳转到 控制面板\程序\程序和功能 ， 在此处选择要卸载的软件，鼠标右键选择 卸载 即可<br>
 ![图片](/images/Cleanup-System_Disk/7.png)
-- 启用存储感知（适用于 Windows 10 和 Windows 11）：以 Windows 11 为例，在设置-系统-存储中可以找到该选项，根据需要调节设置
-![图片](/images/Cleanup-System_Disk/21.png)
-- 使用[Dism ++](https://github.com/Chuyu-Team/Dism-Multi-language)，[清浊](https://pc.dircleaner.com/)等进阶工具（下文会详细介绍 Dism ++ 的使用）
 
 >[!TIP]
 >⚠注意：从控制面板中卸载**每次只能卸载一个软件**，可前往 [设置 - 应用 - 应用和功能](ms-settings:appsfeatures) 进行多个软件的卸载，或者使用 第三方卸载工具 进行批量卸载
@@ -61,6 +58,11 @@
 - 等待扫描完成后，勾选 **你认为该清理** 选项，点击 “删除文件” 按钮，在弹出的提示框中点击 “继续” 即可开始删除<br>
 ![图片](/images/Cleanup-System_Disk/9.png)
 
+---------------
+
+- 启用存储感知（适用于 Windows 10 和 Windows 11）：以 Windows 11 为例，在设置-系统-存储中可以找到该选项，根据需要调节设置
+![图片](/images/Cleanup-System_Disk/21.png)
+- 使用[Dism ++](https://github.com/Chuyu-Team/Dism-Multi-language)，[清浊](https://pc.dircleaner.com/)等进阶工具（下文会详细介绍 Dism ++ 的使用）
 
 
 
@@ -85,7 +87,20 @@
 ![seewo](/images/Cleanup-System_Disk/seewo_5.png)<br>
 
 
+### 鸿合系统管家
+- 打开 鸿合系统管家 主界面，点击扫把图标，然后点击”开始扫描“，并等待扫描完成<br>
+![图片](/images/Cleanup-System_Disk/HiteVision1.jpg)
 
+- 扫描完成后，你可以放心清理自动选择的项目，或者手动选择一些项目<br>
+![图片](/images/Cleanup-System_Disk/HiteVision4.jpg)
+
+- 下面还有文件迁移的选项，您可以选择将 文档、桌面、视频、音乐 等文件夹移动到 D盘 或者其他磁盘 其他位置等<br>
+![图片](/images/Cleanup-System_Disk/HiteVision3.jpg)
+
+![图片](/images/Cleanup-System_Disk/HiteVision2.jpg)
+
+- 选择完成后，点击 “立即释放” 即可，等待清理完成即可关闭窗口<br>
+![图片](/images/Cleanup-System_Disk/HiteVision5.jpg)
 
 
 ## 通过 杀毒软件 附带的工具
